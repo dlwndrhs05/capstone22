@@ -23,7 +23,7 @@ Metroinder
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
 * 작품 소개  
 지하철 정보 제공 맵 웹
-* 작품의 특징
+* 작품의 특징  
 지하철의 혼잡도 정보와 가장 빠르게 이동할수 있는 경로를 알려주는 웹 사이트 입니다  
 공공데이터 API를 활용하여 혼잡도 정보와 자체 알고리즘을 사용하여 사람이적고 가장 빠르게 갈 수 있는 경로를 추천 해줍니다.
 ## [개발일지]
