@@ -14,6 +14,7 @@ import java.io.IOException;
 @Controller
 @RequiredArgsConstructor
 public class RealtimeStationController {
+
     private final RealtimeStationservice RTSs;
     @GetMapping("/getRealtimeStation")
     @ResponseBody

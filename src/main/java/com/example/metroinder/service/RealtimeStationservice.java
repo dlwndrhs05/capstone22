@@ -15,6 +15,7 @@ import java.net.URLEncoder;
 @Component
 @Service
 public class RealtimeStationservice {
+
     @Value("${generalKey}")
     public String generalKey;
     @Value("${realTimeKey}")

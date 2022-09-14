@@ -15,6 +15,7 @@ import javax.persistence.Id;
 @Setter
 @Builder
 public class TimeStationPersonnel extends Timestamped {
+
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;

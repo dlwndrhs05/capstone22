@@ -11,6 +11,7 @@ import java.util.List;
 @Getter
 @NoArgsConstructor
 public class TimeStationPersonnelDto {
+
     private Long id;
     private String station;
     private int oneRide;
